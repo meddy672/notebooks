@@ -1,7 +1,7 @@
-# Jupyter Notebooks
+# Jupyter Notebook
 ![Alt Text](./1200px-Jupyter_logo.svg.jpg)
 
-Jupyter Notebooks is a great way for fast prototyping and interactive learning. I created an interactive notebook showing different appraoches to work with some widely used python packages.
+Jupyter Notebook is a great way for fast prototyping and interactive learning. I created an interactive notebook showing different appraoches to work with some widely used python packages.
 
 Python - Panadas, Documents, & JSON Tutorial in action:
 - [Markdown](./python_tutorial.ipynb)
